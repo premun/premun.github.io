@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tipemoji/static/css/main.cb5838e0.chunk.css",
+    "main.js": "/tipemoji/static/js/main.db337262.chunk.js",
+    "main.js.map": "/tipemoji/static/js/main.db337262.chunk.js.map",
+    "runtime-main.js": "/tipemoji/static/js/runtime-main.911a1a31.js",
+    "runtime-main.js.map": "/tipemoji/static/js/runtime-main.911a1a31.js.map",
+    "static/js/2.aead1938.chunk.js": "/tipemoji/static/js/2.aead1938.chunk.js",
+    "static/js/2.aead1938.chunk.js.map": "/tipemoji/static/js/2.aead1938.chunk.js.map",
+    "index.html": "/tipemoji/index.html",
+    "precache-manifest.106759c174970ea91620c9b39b54ed29.js": "/tipemoji/precache-manifest.106759c174970ea91620c9b39b54ed29.js",
+    "service-worker.js": "/tipemoji/service-worker.js",
+    "static/css/main.cb5838e0.chunk.css.map": "/tipemoji/static/css/main.cb5838e0.chunk.css.map",
+    "static/js/2.aead1938.chunk.js.LICENSE.txt": "/tipemoji/static/js/2.aead1938.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.911a1a31.js",
+    "static/js/2.aead1938.chunk.js",
+    "static/css/main.cb5838e0.chunk.css",
+    "static/js/main.db337262.chunk.js"
+  ]
+}
