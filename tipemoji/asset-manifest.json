@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/tipemoji/static/css/main.0c0cc17a.chunk.css",
-    "main.js": "/tipemoji/static/js/main.7bea9aa9.chunk.js",
-    "main.js.map": "/tipemoji/static/js/main.7bea9aa9.chunk.js.map",
+    "main.css": "/tipemoji/static/css/main.4b5bb966.chunk.css",
+    "main.js": "/tipemoji/static/js/main.f94064b5.chunk.js",
+    "main.js.map": "/tipemoji/static/js/main.f94064b5.chunk.js.map",
     "runtime-main.js": "/tipemoji/static/js/runtime-main.911a1a31.js",
     "runtime-main.js.map": "/tipemoji/static/js/runtime-main.911a1a31.js.map",
     "static/js/2.3c955eb9.chunk.js": "/tipemoji/static/js/2.3c955eb9.chunk.js",
     "static/js/2.3c955eb9.chunk.js.map": "/tipemoji/static/js/2.3c955eb9.chunk.js.map",
     "index.html": "/tipemoji/index.html",
-    "precache-manifest.1074cfb64e1529098c15bda3ab5ecc90.js": "/tipemoji/precache-manifest.1074cfb64e1529098c15bda3ab5ecc90.js",
+    "precache-manifest.fb3ea950d5a4dff8464015f4b37c0415.js": "/tipemoji/precache-manifest.fb3ea950d5a4dff8464015f4b37c0415.js",
     "service-worker.js": "/tipemoji/service-worker.js",
-    "static/css/main.0c0cc17a.chunk.css.map": "/tipemoji/static/css/main.0c0cc17a.chunk.css.map",
+    "static/css/main.4b5bb966.chunk.css.map": "/tipemoji/static/css/main.4b5bb966.chunk.css.map",
     "static/js/2.3c955eb9.chunk.js.LICENSE.txt": "/tipemoji/static/js/2.3c955eb9.chunk.js.LICENSE.txt",
     "static/media/index.css": "/tipemoji/static/media/H-Medium.d01a07ef.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.911a1a31.js",
     "static/js/2.3c955eb9.chunk.js",
-    "static/css/main.0c0cc17a.chunk.css",
-    "static/js/main.7bea9aa9.chunk.js"
+    "static/css/main.4b5bb966.chunk.css",
+    "static/js/main.f94064b5.chunk.js"
   ]
 }

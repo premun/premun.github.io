@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f18d09d73e351914dfc5f4057fecdbe",
+    "revision": "5ecf0e3987c94c780b975a36da577b7d",
     "url": "/tipemoji/index.html"
   },
   {
-    "revision": "1047c551d71c11cc3436",
-    "url": "/tipemoji/static/css/main.0c0cc17a.chunk.css"
+    "revision": "06debfd3355b15b1abaa",
+    "url": "/tipemoji/static/css/main.4b5bb966.chunk.css"
   },
   {
     "revision": "10dfec9e87680dc33d9c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tipemoji/static/js/2.3c955eb9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1047c551d71c11cc3436",
-    "url": "/tipemoji/static/js/main.7bea9aa9.chunk.js"
+    "revision": "06debfd3355b15b1abaa",
+    "url": "/tipemoji/static/js/main.f94064b5.chunk.js"
   },
   {
     "revision": "9c273cc3e478d80f2b38",
